@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="CustomerMaster.master.cs" Inherits="CarRentalManagementSystem.View.Customer.CustomerMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="../../Assets/Libraries/css/bootstrap.min.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-warning">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">CarRent 1.0</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="Cars.aspx">Cars</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="PendingRentals.aspx">Pending Rents</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/View/Login.aspx">Logout</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <form id="form1" runat="server">
+        <asp:ContentPlaceHolder ID="mybody" runat="server"></asp:ContentPlaceHolder>
+    </form>
+</body>
+</html>

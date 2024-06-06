@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80F9F359-60CD-42F9-8F3C-5FF8AB782799}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\carrentalmanagementsystem\\view\\admin\\cars.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F9F359-60CD-42F9-8F3C-5FF8AB782799}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|solutionrelative:carrentalmanagementsystem\\view\\admin\\cars.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F9F359-60CD-42F9-8F3C-5FF8AB782799}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|c:\\users\\30100\\source\\repos\\carrentalmanagementsystem-master\\carrentalmanagementsystem\\view\\admin\\cars.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F9F359-60CD-42F9-8F3C-5FF8AB782799}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|solutionrelative:carrentalmanagementsystem\\view\\admin\\cars.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F9F359-60CD-42F9-8F3C-5FF8AB782799}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\carrentalmanagementsystem\\view\\admin\\cars.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{80F9F359-60CD-42F9-8F3C-5FF8AB782799}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|solutionrelative:carrentalmanagementsystem\\view\\admin\\cars.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F9F359-60CD-42F9-8F3C-5FF8AB782799}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\carrentalmanagementsystem\\car-rental-system\\service.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80F9F359-60CD-42F9-8F3C-5FF8AB782799}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|solutionrelative:carrentalmanagementsystem\\car-rental-system\\service.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F9F359-60CD-42F9-8F3C-5FF8AB782799}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|c:\\users\\30100\\source\\repos\\carrentalmanagementsystem-master\\carrentalmanagementsystem\\car-rental-system\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80F9F359-60CD-42F9-8F3C-5FF8AB782799}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|solutionrelative:carrentalmanagementsystem\\car-rental-system\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F9F359-60CD-42F9-8F3C-5FF8AB782799}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|c:\\users\\30100\\source\\repos\\carrentalmanagementsystem-master\\carrentalmanagementsystem\\car-rental-system\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80F9F359-60CD-42F9-8F3C-5FF8AB782799}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|solutionrelative:carrentalmanagementsystem\\car-rental-system\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F9F359-60CD-42F9-8F3C-5FF8AB782799}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|c:\\users\\30100\\source\\repos\\carrentalmanagementsystem-master\\carrentalmanagementsystem\\car-rental-system\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80F9F359-60CD-42F9-8F3C-5FF8AB782799}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|solutionrelative:carrentalmanagementsystem\\car-rental-system\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F9F359-60CD-42F9-8F3C-5FF8AB782799}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\carrentalmanagementsystem\\view\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F9F359-60CD-42F9-8F3C-5FF8AB782799}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|solutionrelative:carrentalmanagementsystem\\view\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F9F359-60CD-42F9-8F3C-5FF8AB782799}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\carrentalmanagementsystem\\car-rental-system\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{80F9F359-60CD-42F9-8F3C-5FF8AB782799}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|solutionrelative:carrentalmanagementsystem\\car-rental-system\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F9F359-60CD-42F9-8F3C-5FF8AB782799}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\carrentalmanagementsystem\\view\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{80F9F359-60CD-42F9-8F3C-5FF8AB782799}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|solutionrelative:carrentalmanagementsystem\\view\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F9F359-60CD-42F9-8F3C-5FF8AB782799}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\carrentalmanagementsystem\\view\\admin\\customers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{80F9F359-60CD-42F9-8F3C-5FF8AB782799}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|solutionrelative:carrentalmanagementsystem\\view\\admin\\customers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cars.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\CarRentalManagementSystem\\View\\Admin\\Cars.aspx.designer.cs",
+              "RelativeDocumentMoniker": "CarRentalManagementSystem\\View\\Admin\\Cars.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\CarRentalManagementSystem\\View\\Admin\\Cars.aspx.designer.cs",
+              "RelativeToolTip": "CarRentalManagementSystem\\View\\Admin\\Cars.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:35:06.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "contact.html",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\CarRentalManagementSystem\\car-rental-system\\contact.html",
+              "RelativeDocumentMoniker": "CarRentalManagementSystem\\car-rental-system\\contact.html",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\CarRentalManagementSystem\\car-rental-system\\contact.html",
+              "RelativeToolTip": "CarRentalManagementSystem\\car-rental-system\\contact.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-27T14:34:54.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "about.html",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\CarRentalManagementSystem\\car-rental-system\\about.html",
+              "RelativeDocumentMoniker": "CarRentalManagementSystem\\car-rental-system\\about.html",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\CarRentalManagementSystem\\car-rental-system\\about.html",
+              "RelativeToolTip": "CarRentalManagementSystem\\car-rental-system\\about.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-27T14:34:53.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\CarRentalManagementSystem\\car-rental-system\\index.html",
+              "RelativeDocumentMoniker": "CarRentalManagementSystem\\car-rental-system\\index.html",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\CarRentalManagementSystem\\car-rental-system\\index.html",
+              "RelativeToolTip": "CarRentalManagementSystem\\car-rental-system\\index.html",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAAwAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-17T12:03:21.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\CarRentalManagementSystem\\View\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "CarRentalManagementSystem\\View\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\CarRentalManagementSystem\\View\\Login.aspx.cs",
+              "RelativeToolTip": "CarRentalManagementSystem\\View\\Login.aspx.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:19:57.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\CarRentalManagementSystem\\car-rental-system\\js\\main.js",
+              "RelativeDocumentMoniker": "CarRentalManagementSystem\\car-rental-system\\js\\main.js",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\CarRentalManagementSystem\\car-rental-system\\js\\main.js",
+              "RelativeToolTip": "CarRentalManagementSystem\\car-rental-system\\js\\main.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-20T16:20:10.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customers.aspx",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\CarRentalManagementSystem\\View\\Admin\\Customers.aspx",
+              "RelativeDocumentMoniker": "CarRentalManagementSystem\\View\\Admin\\Customers.aspx",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\CarRentalManagementSystem\\View\\Admin\\Customers.aspx",
+              "RelativeToolTip": "CarRentalManagementSystem\\View\\Admin\\Customers.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-19T12:42:40.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cars.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\CarRentalManagementSystem\\View\\Admin\\Cars.aspx.cs",
+              "RelativeDocumentMoniker": "CarRentalManagementSystem\\View\\Admin\\Cars.aspx.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\CarRentalManagementSystem\\View\\Admin\\Cars.aspx.cs",
+              "RelativeToolTip": "CarRentalManagementSystem\\View\\Admin\\Cars.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:02:11.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\CarRentalManagementSystem\\View\\Login.aspx",
+              "RelativeDocumentMoniker": "CarRentalManagementSystem\\View\\Login.aspx",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\CarRentalManagementSystem\\View\\Login.aspx",
+              "RelativeToolTip": "CarRentalManagementSystem\\View\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-15T08:05:09.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cars.aspx",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\CarRentalManagementSystem\\View\\Admin\\Cars.aspx",
+              "RelativeDocumentMoniker": "CarRentalManagementSystem\\View\\Admin\\Cars.aspx",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\CarRentalManagementSystem\\View\\Admin\\Cars.aspx",
+              "RelativeToolTip": "CarRentalManagementSystem\\View\\Admin\\Cars.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-18T17:14:30.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "service.html",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\CarRentalManagementSystem\\car-rental-system\\service.html",
+              "RelativeDocumentMoniker": "CarRentalManagementSystem\\car-rental-system\\service.html",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\CarRentalManagementSystem-Master\\CarRentalManagementSystem\\car-rental-system\\service.html",
+              "RelativeToolTip": "CarRentalManagementSystem\\car-rental-system\\service.html",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-17T12:22:46.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
